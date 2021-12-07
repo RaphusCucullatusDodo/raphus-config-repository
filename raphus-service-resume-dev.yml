@@ -1,4 +1,4 @@
 mysql:
     url: dev-http://localhost:3306/db100
 raphus:
-    message: this's gitee config repository
+    message: this'sGiteeConfigRepository
